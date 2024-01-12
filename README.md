@@ -1,7 +1,7 @@
 # React-Questions
 
 ## What is React and how can you best describe it?
-React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components that efficiently update and render when the underlying data changes. While some consider it a framework, it's often referred to as a library due to its focused functionality (building user interfaces).
+React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components that efficiently update and render when the underlying data changes.
 
 ## What is JSX?
 JSX (JavaScript XML) is a syntax extension for JavaScript developed by React. It allows developers to write HTML elements and components in a syntax similar to XML or HTML, making it easier to create/describe the structure of React components.
